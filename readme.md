@@ -1,7 +1,7 @@
 # Sample Firefox Extension
 
 
-navigate to about:debugging#/runtime/this-firefox
+navigate to [about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox)
 
 Click on Load Temporary Add-on, select one file from extension directory and click reload on that extension
 
